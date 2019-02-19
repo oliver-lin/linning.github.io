@@ -60,10 +60,12 @@ kramdown:
 # disqus_username: linning
 
 # Gitalk
+# https://github.com/settings/applications/new
+# https://www.jianshu.com/p/78c64d07124d
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 519784da579a22fd173d                            #生成的clientID
+  clientSecret: d125754849367ce6aebdc88eb04d5900824d7d54    #生成的clientSecret
   repo: oliver-lin.github.io    #仓库名称
   owner: oliver-lin    #github用户名
   admin: oliver
