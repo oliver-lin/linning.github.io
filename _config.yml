@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 林宁的博客 | BY Blog
+title: LN Blog
+SEOTitle: 林宁的博客 | LN Blog
 header-img: img/post-bg-desk.jpg
 email: 408582708@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 林宁的博客, linning, 林宁, Linux, Nginx, PHP, Python, Shell, Vim"
+keyword: "LN, LN Blog, 林宁的博客, linning, 林宁, Linux, Nginx, PHP, Python, Shell, Vim"
 url: "http://oliver-lin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/oliver-lin/oliver-lin.github.io.git" # you code repository
