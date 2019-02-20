@@ -1,4 +1,6 @@
 # Site settings
+# https://blog.csdn.net/u012168038/article/details/77715439
+# https://www.jianshu.com/p/e68fba58f75c
 title: LN Blog
 SEOTitle: 林宁的博客 | LN Blog
 header-img: img/post-bg-desk.jpg
@@ -12,7 +14,7 @@ github_repo: "https://github.com/oliver-lin/oliver-lin.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+# sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
